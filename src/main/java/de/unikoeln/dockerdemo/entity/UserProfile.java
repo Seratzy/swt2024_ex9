@@ -20,7 +20,7 @@ public class UserProfile {
         this.active = active;
         this.staff = staff;
     }
-    //small change
+    //small change 2
 
     public UserProfile() {
     }
